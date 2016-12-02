@@ -1,0 +1,14 @@
+uuid: 6cdc4f56-2bbd-4e03-971d-29c9e25a80e9
+name: Juancasantito
+mail: admin@example.com
+slogan: 'Potato Mode'
+page:
+  403: ''
+  404: ''
+  front: /node/1
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
